@@ -27,6 +27,8 @@ Usage
 In /etc/watchgit.conf:
 
 Section [GIT]:
+  ```
   repo_name = is the name of repository
-   local_repo = where is your project (local, of course)
+  local_repo = where is your project (local, of course)
   remote_repo = URL of your repository in GIT
+  ```
