@@ -4,12 +4,14 @@ Watchgit
 Requirements
 * Python 2.7 (not tested in Python 3)
 * python-daemon
+* python-git
 
 Installation
 
 1. Install dependencies:
   ```
   apt-get install python-daemon
+  apt-get install python-git
   ```
 
 2. Clone a repository:

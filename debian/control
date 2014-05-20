@@ -8,6 +8,6 @@ Homepage: http://www.github.com/orelhinhas/watchgit
 
 Package: watchgit
 Architecture: any
-Depends: python-daemon, ${shlibs:Depends}, ${misc:Depends}
+Depends: python-daemon, python-git, ${shlibs:Depends}, ${misc:Depends}
 Description: Deamon to watch a git repository
  Daemon to watch a specific git repository and pull always that there is a change.
