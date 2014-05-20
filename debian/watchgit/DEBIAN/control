@@ -1,0 +1,11 @@
+Package: watchgit
+Version: 0.0.1-1
+Architecture: amd64
+Maintainer: Joao Gabriel <jglisanti@gmail.com>
+Installed-Size: 44
+Depends: python-daemon
+Section: misc
+Priority: extra
+Homepage: http://www.github.com/orelhinhas/watchgit
+Description: Deamon to watch a git repository
+ Daemon to watch a specific git repository and pull always that there is a change.

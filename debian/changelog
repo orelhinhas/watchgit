@@ -1,0 +1,5 @@
+watchgit (0.0.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Joao Gabriel <jglisanti@gmail.com>  Tue, 20 May 2014 13:58:18 +0100
