@@ -15,7 +15,7 @@
 #    See the License for the specific language governing permissions and
 #    limitations under the License.
 #
-# @author: Joao Gabriel <jglisanti@gmail.com>
+# @author: Joao Gabriel <jglisanti@gmail.com>.
 
 
 import os
